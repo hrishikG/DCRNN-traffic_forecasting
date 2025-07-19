@@ -1,0 +1,13 @@
+---
+
+### 📦 `requirements.txt`
+
+```txt
+numpy
+pandas
+torch
+scipy
+matplotlib
+tqdm
+scikit-learn
+jupyter
